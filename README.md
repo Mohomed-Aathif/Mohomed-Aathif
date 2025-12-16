@@ -2,7 +2,7 @@
 
 **`Software Engineer`**
 
-I'm a software engineer focused on building reliable, scalable, and maintainable software solutions. I enjoy solving real world problems through clean code, thoughtful system design, and continuous learning.
+Software Engineer focused on building reliable, scalable, and maintainable software solutions. I enjoy solving real world problems through clean code, thoughtful system design, and continuous learning.
 
 
 <h3 align="left">Connect with me:</h3>
