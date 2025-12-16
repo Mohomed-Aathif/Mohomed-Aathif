@@ -4,10 +4,15 @@
 
 I'm a software engineer focused on building reliable, scalable, and maintainable software solutions. I enjoy solving real world problems through clean code, thoughtful system design, and continuous learning.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohomed-aathif&label=Profile%20views&color=0e75b6&style=flat" alt="mohomed-aathif" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  <a href="https://www.linkedin.com/in/mohomed-aathif-35a962236/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn"
+         width="40"
+         height="40" />
+  </a>
 </p>
 
 <h2>🧠 Programming Languages</h2>
@@ -45,6 +50,12 @@ I'm a software engineer focused on building reliable, scalable, and maintainable
   <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_xd/adobe_xd-icon.svg" alt="adobe xd" width="40" height="40"/></a> 
 </p>
 
+<h2>Proile Viewers</h2>
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=mohomed-aathif&style=flat&color=6c757d" alt="Profile views"/>
+</p>
+
+<h2>📊 Stats</h2>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohomed-aathif&show_icons=true&locale=en&layout=compact" alt="mohomed-aathif" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohomed-aathif&show_icons=true&locale=en" alt="mohomed-aathif" /></p>
