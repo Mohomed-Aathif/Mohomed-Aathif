@@ -4,6 +4,9 @@
 
 Software Engineer focused on building reliable, scalable, and maintainable software solutions. I enjoy solving real world problems through clean code, thoughtful system design, and continuous learning.
 
+## 🚧 Current Project
+
+🐾 Building a pet adoption platform to help shelters and adopters connect more easily.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
