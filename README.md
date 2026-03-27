@@ -85,7 +85,7 @@ Built to simplify browsing, matching, and scheduling adoption.
 </p>
 
 <p align="center">
-  < img src="https://streak-stats.demolab.com/?user=mohomed-aathif&theme=tokyonight&hide_border=true&ring=c4b5fd&fire=a78bfa" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohomed-aathif&theme=tokyonight&hide_border=true&ring=c4b5fd&fire=a78bfa" />
 </p>
 
 <p align="center">
