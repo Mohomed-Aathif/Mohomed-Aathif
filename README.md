@@ -44,12 +44,6 @@ Built to simplify browsing, matching, and scheduling adoption.
   <img src="https://skillicons.dev/icons?i=js,ts,python,java,go" />
 </p>
 
-* JavaScript
-* TypeScript
-* Python
-* Java
-* Go
-
 ---
 
 ### 🎨 Frontend
@@ -57,13 +51,6 @@ Built to simplify browsing, matching, and scheduling adoption.
 <p>
   <img src="https://skillicons.dev/icons?i=react,next,vue,tailwind,html,css" />
 </p>
-
-* React
-* Next.js
-* Vue
-* Tailwind CSS
-* HTML
-* CSS
 
 ---
 
@@ -73,12 +60,6 @@ Built to simplify browsing, matching, and scheduling adoption.
   <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,graphql" />
 </p>
 
-* Node.js
-* Express
-* FastAPI
-* Django
-* GraphQL
-
 ---
 
 ### 🗄️ Databases
@@ -87,12 +68,6 @@ Built to simplify browsing, matching, and scheduling adoption.
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" />
 </p>
 
-* PostgreSQL
-* MySQL
-* MongoDB
-* Redis
-* Supabase
-
 ---
 
 ### ⚡ DevOps & Tools
@@ -100,13 +75,6 @@ Built to simplify browsing, matching, and scheduling adoption.
 <p>
   <img src="https://skillicons.dev/icons?i=docker,kubernetes,github,aws,linux" />
 </p>
-
-* Docker
-* Kubernetes
-* GitHub
-* GitHub Actions
-* AWS
-* Linux
 
 ---
 
