@@ -18,40 +18,58 @@ Software Engineer focused on building reliable, scalable, and maintainable softw
   </a>
 </p>
 
-<h2>🧠 Programming Languages</h2>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-
-<h2>🎨 Frontend Development</h2>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-
-<h2>⚙️ Backend Development</h2>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-
-<h2>🗄️ Databases</h2>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-
-<h2>🛠️ DevOps & Tools</h2>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-
-<h2>🎨 Design Tools</h2>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_xd/adobe_xd-icon.svg" alt="adobe xd" width="40" height="40"/></a> 
-</p>
+<div class="stack-section">
+      <div class="stack-label">🧠 Programming Languages</div>
+      <div class="icon-row">
+        <div class="tech-pill"><span class="tech-dot" style="background:#f7df1e"></span>JavaScript</div>
+        <div class="tech-pill"><span class="tech-dot" style="background:#3178c6"></span>TypeScript</div>
+        <div class="tech-pill"><span class="tech-dot" style="background:#3776ab"></span>Python</div>
+        <div class="tech-pill"><span class="tech-dot" style="background:#b07219"></span>Java</div>
+        <div class="tech-pill"><span class="tech-dot" style="background:#00add8"></span>Go</div>
+      </div>
+    </div>
+    <div class="stack-section">
+      <div class="stack-label">🎨 Frontend Development</div>
+      <div class="icon-row">
+        <div class="tech-pill"><span class="tech-dot" style="background:#61dafb"></span>React</div>
+        <div class="tech-pill"><span class="tech-dot" style="background:#000"></span>Next.js</div>
+        <div class="tech-pill"><span class="tech-dot" style="background:#42b883"></span>Vue</div>
+        <div class="tech-pill"><span class="tech-dot" style="background:#06b6d4"></span>Tailwind</div>
+        <div class="tech-pill"><span class="tech-dot" style="background:#e34f26"></span>HTML</div>
+        <div class="tech-pill"><span class="tech-dot" style="background:#264de4"></span>CSS</div>
+      </div>
+    </div>
+    <div class="stack-section">
+      <div class="stack-label">⚙️ Backend Development</div>
+      <div class="icon-row">
+        <div class="tech-pill"><span class="tech-dot" style="background:#68a063"></span>Node.js</div>
+        <div class="tech-pill"><span class="tech-dot" style="background:#000"></span>Express</div>
+        <div class="tech-pill"><span class="tech-dot" style="background:#009688"></span>FastAPI</div>
+        <div class="tech-pill"><span class="tech-dot" style="background:#092e20"></span>Django</div>
+        <div class="tech-pill"><span class="tech-dot" style="background:#e10098"></span>GraphQL</div>
+      </div>
+    </div>
+    <div class="stack-section">
+      <div class="stack-label">🗄️ Databases</div>
+      <div class="icon-row">
+        <div class="tech-pill"><span class="tech-dot" style="background:#336791"></span>PostgreSQL</div>
+        <div class="tech-pill"><span class="tech-dot" style="background:#4479a1"></span>MySQL</div>
+        <div class="tech-pill"><span class="tech-dot" style="background:#47a248"></span>MongoDB</div>
+        <div class="tech-pill"><span class="tech-dot" style="background:#dc382d"></span>Redis</div>
+        <div class="tech-pill"><span class="tech-dot" style="background:#3ecf8e"></span>Supabase</div>
+      </div>
+    </div>
+    <div class="stack-section">
+      <div class="stack-label">🛠️ DevOps & Tools</div>
+      <div class="icon-row">
+        <div class="tech-pill"><span class="tech-dot" style="background:#2496ed"></span>Docker</div>
+        <div class="tech-pill"><span class="tech-dot" style="background:#326ce5"></span>Kubernetes</div>
+        <div class="tech-pill"><span class="tech-dot" style="background:#fff"></span>GitHub</div>
+        <div class="tech-pill"><span class="tech-dot" style="background:#2088ff"></span>Actions</div>
+        <div class="tech-pill"><span class="tech-dot" style="background:#ff9900"></span>AWS</div>
+        <div class="tech-pill"><span class="tech-dot" style="background:#fcc624"></span>Linux</div>
+      </div>
+    </div>
 
 <h2>Proile Viewers</h2>
 <p align="left">
