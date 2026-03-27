@@ -113,7 +113,9 @@ Built to simplify browsing, matching, and scheduling adoption.
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-C4B5FD?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+  <a href="https://www.linkedin.com/in/mohomed-aathif-35a962236/">
+    <img src="https://img.shields.io/badge/LinkedIn-C4B5FD?style=for-the-badge&logo=linkedin&logoColor=black"/>
+  </a>
   <a href="#"><img src="https://img.shields.io/badge/Twitter-A78BFA?style=for-the-badge&logo=twitter&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
   <a href="#"><img src="https://img.shields.io/badge/Gmail-E9D5FF?style=for-the-badge&logo=gmail&logoColor=black"/></a>
