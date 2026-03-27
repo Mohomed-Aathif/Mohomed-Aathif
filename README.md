@@ -1,66 +1,159 @@
-<h1>Mohomed Aathif</h1>
-
-**`Software Engineer`**
-
-Software Engineer focused on building reliable, scalable, and maintainable software solutions. I enjoy solving real world problems through clean code, thoughtful system design, and continuous learning.
-
-## 🚧 Current Project
-
-🐾 Building a pet adoption platform to help shelters and adopters connect more easily.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/mohomed-aathif-35a962236/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
-         alt="LinkedIn"
-         width="40"
-         height="40" />
-  </a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=a78bfa&height=200&section=header&text=Mohamed%20Aathif&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Scalable%20Systems&descAlignY=55&descAlign=50"/>
 </p>
 
-<h2>🧠 Programming Languages</h2>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> 
-
-<h2>🎨 Frontend Development</h2>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>  
-  <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-
-<h2>⚙️ Backend Development</h2>
-  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> 
-
-<h2>🗄️ Databases</h2>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-
-<h2>🛠️ DevOps & Tools</h2>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-
-<h2>🎨 Design Tools</h2>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_xd/adobe_xd-icon.svg" alt="adobe xd" width="40" height="40"/></a> 
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=C4B5FD&center=true&vCenter=true&width=600&lines=Building+Reliable+Software;Clean+Code+Matters;Scalable+Systems+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A"/>
 </p>
 
-<h2>Proile Viewers</h2>
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=mohomed-aathif&style=flat&color=6c757d" alt="Profile views"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohomed-aathif&label=Profile+Views&color=a78bfa&style=flat" />
+  <img src="https://img.shields.io/github/followers/mohomed-aathif?label=Followers&style=flat&color=a78bfa" />
 </p>
 
-<h2>📊 Stats</h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohomed-aathif&show_icons=true&locale=en&layout=compact" alt="mohomed-aathif" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohomed-aathif&show_icons=true&locale=en" alt="mohomed-aathif" /></p>
+## 🧑‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohomed-aathif&" alt="mohomed-aathif" /></p>
+```js
+const aathif = {
+  role: "Software Engineer",
+  focus: ["Reliability", "Scalability", "Maintainability"],
+  philosophy: "Clean code + Thoughtful design = Real-world impact",
+  currentBuild: "🐾 Pet Adoption Platform",
+  mindset: "Always learning, always improving",
+};
+```
+
+---
+
+## 🚀 Featured Project
+
+### 🐾 Pet Adoption Platform
+
+A platform connecting shelters and adopters seamlessly.
+Built to simplify browsing, matching, and scheduling adoption.
+
+---
+
+## 🛠️ Tech Stack
+
+### 🧠 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,ts,python,java,go" />
+</p>
+
+* JavaScript
+* TypeScript
+* Python
+* Java
+* Go
+
+---
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,next,vue,tailwind,html,css" />
+</p>
+
+* React
+* Next.js
+* Vue
+* Tailwind CSS
+* HTML
+* CSS
+
+---
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,graphql" />
+</p>
+
+* Node.js
+* Express
+* FastAPI
+* Django
+* GraphQL
+
+---
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" />
+</p>
+
+* PostgreSQL
+* MySQL
+* MongoDB
+* Redis
+* Supabase
+
+---
+
+### ⚡ DevOps & Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,github,aws,linux" />
+</p>
+
+* Docker
+* Kubernetes
+* GitHub
+* GitHub Actions
+* AWS
+* Linux
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohomed-aathif&show_icons=true&theme=tokyonight&hide_border=true&title_color=c4b5fd&icon_color=a78bfa" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohomed-aathif&theme=tokyonight&hide_border=true&ring=c4b5fd&fire=a78bfa" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohomed-aathif&layout=compact&theme=tokyonight&hide_border=true&title_color=c4b5fd" />
+</p>
+
+---
+
+## 🏆 Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohomed-aathif&theme=tokyonight&no-frame=true&row=1&column=6&title=Stars,Commits,Repositories,PullRequest,Issues&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## 🔥 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohomed-aathif&theme=tokyo-night&color=c4b5fd&line=a78bfa&point=ffffff&hide_border=true" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-C4B5FD?style=for-the-badge&logo=linkedin&logoColor=black"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Twitter-A78BFA?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/Gmail-E9D5FF?style=for-the-badge&logo=gmail&logoColor=black"/></a>
+</p>
+
+---
+
+## ⭐ Support
+
+If you find my work useful, consider giving a ⭐
+It keeps me motivated to build more 🚀
