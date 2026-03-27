@@ -94,14 +94,6 @@ Built to simplify browsing, matching, and scheduling adoption.
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohomed-aathif&theme=tokyonight&no-frame=true&row=1&column=6&title=Stars,Commits,Repositories,PullRequest,Issues&margin-w=10&margin-h=10" />
-</p>
-
----
-
 ## 🔥 Activity Graph
 
 <p align="center">
