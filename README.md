@@ -81,15 +81,12 @@ Built to simplify browsing, matching, and scheduling adoption.
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mohomed-aathif&show_icons=true&theme=tokyonight&hide_border=true&title_color=c4b5fd&icon_color=a78bfa" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohomed-aathif&show_icons=true&theme=dracula&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohomed-aathif&layout=compact&theme=dracula&hide_border=true" height="150"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohomed-aathif&theme=tokyonight&hide_border=true&ring=c4b5fd&fire=a78bfa" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=mohomed-aathif&layout=compact&theme=tokyonight&hide_border=true&title_color=c4b5fd" />
 </p>
 
 ---
