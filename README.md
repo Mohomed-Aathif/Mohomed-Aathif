@@ -84,7 +84,9 @@ Built to simplify browsing, matching, and scheduling adoption.
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohomed-aathif&show_icons=true&theme=dracula&hide_border=true" height="150"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohomed-aathif&layout=compact&theme=dracula&hide_border=true" height="150"/>
 </p>
+---
 
+## 🔥 Streak Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohomed-aathif&theme=tokyonight&hide_border=true&ring=c4b5fd&fire=a78bfa" />
 </p>
