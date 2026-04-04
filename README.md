@@ -108,12 +108,6 @@ Built to simplify browsing, matching, and scheduling adoption.
     <img src="https://img.shields.io/badge/LinkedIn-C4B5FD?style=for-the-badge&logo=linkedin&logoColor=black"/>
   </a>
   <a href="#"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-  <a href="#"><img src="https://img.shields.io/badge/Gmail-E9D5FF?style=for-the-badge&logo=gmail&logoColor=black"/></a>
 </p>
 
 ---
-
-## ⭐ Support
-
-If you find my work useful, consider giving a ⭐
-It keeps me motivated to build more 🚀
