@@ -1,113 +1,205 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=a78bfa&height=200&section=header&text=Mohamed%20Aathif&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Software%20Engineer%20%7C%20Scalable%20Systems&descAlignY=55&descAlign=50"/>
-</p>
+<!-- Terminal boot sequence -->
+<div align="center">
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=C4B5FD&center=true&vCenter=true&width=600&lines=Building+Reliable+Software;Clean+Code+Matters;Scalable+Systems+%F0%9F%9A%80;Always+Learning+%F0%9F%93%9A"/>
-</p>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║                                                                  ║
+║   aathif@dev:~$ sudo access --user="visitor" --profile=aathif   ║
+║                                                                  ║
+║   [ ████████████████████████████████ ] 100%                      ║
+║                                                                  ║
+║   Access granted. Welcome to Aathif's terminal.                  ║
+║   Session started: $(date)                                        ║
+║                                                                  ║
+╚══════════════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohomed-aathif&label=Profile+Views&color=a78bfa&style=flat" />
-  <img src="https://img.shields.io/github/followers/mohomed-aathif?label=Followers&style=flat&color=a78bfa" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2500&pause=600&color=A78BFA&center=true&vCenter=true&width=620&lines=Initializing+profile...;Loading+modules:+reliability%2C+scalability%2C+craft...;All+systems+nominal.;Type+%60help%60+to+see+available+commands." />
+
+</div>
 
 ---
 
-## 🧑‍💻 About Me
+```bash
+aathif@dev:~$ whoami
+```
 
-```js
-const aathif = {
-  role: "Software Engineer",
-  focus: ["Reliability", "Scalability", "Maintainability"],
-  philosophy: "Clean code + Thoughtful design = Real-world impact",
-  currentBuild: "🐾 Pet Adoption Platform",
-  mindset: "Always learning, always improving",
-};
+```
+NAME         : Mohamed Aathif
+ROLE         : Software Engineer
+LOCATION     : 🌍 /earth/asia/sri-lanka
+UPTIME       : Several years of shipping software
+
+CURRENT_BUILD: Pet Adoption Platform 🐾
+               → connecting shelters and adopters, seamlessly
+
+PHILOSOPHY   : "Clean code isn't written for machines.
+                It's written for the next human who reads it."
+
+STATUS       : [ ONLINE ] — always learning, always improving
 ```
 
 ---
 
-## 🚀 Featured Project
+```bash
+aathif@dev:~$ ls -la skills/
+```
 
-### 🐾 Pet Adoption Platform
+```
+drwxr-xr-x  languages/
+drwxr-xr-x  frontend/
+drwxr-xr-x  backend/
+drwxr-xr-x  databases/
+drwxr-xr-x  devops/
+```
 
-A platform connecting shelters and adopters seamlessly.
-Built to simplify browsing, matching, and scheduling adoption.
+```bash
+aathif@dev:~$ cat skills/languages/
+```
+
+```
+JavaScript    ████████████████████  production-grade
+TypeScript    ███████████████████░  strongly typed, strongly preferred
+Python        ██████████████████░░  scripting to ML pipelines
+Java          █████████████████░░░  enterprise patterns
+Go            ████████████░░░░░░░░  learning the fast lane
+```
+
+```bash
+aathif@dev:~$ cat skills/frontend/
+```
+
+```
+React         ████████████████████  component architecture, hooks, state mgmt
+Next.js       ███████████████████░  SSR, SSG, App Router
+Vue           ██████████████████░░  reactive, composable
+Tailwind CSS  ████████████████████  utility-first, pixel-perfect
+HTML / CSS    ████████████████████  the foundation, respected accordingly
+```
+
+```bash
+aathif@dev:~$ cat skills/backend/
+```
+
+```
+Node.js       ████████████████████  event-driven, non-blocking
+Express       ███████████████████░  REST, middleware, fast APIs
+FastAPI       ██████████████████░░  async Python, OpenAPI auto-docs
+Django        █████████████████░░░  batteries included
+GraphQL       █████████████░░░░░░░  queries > REST (sometimes)
+```
+
+```bash
+aathif@dev:~$ cat skills/databases/
+```
+
+```
+PostgreSQL    ████████████████████  relational backbone
+MySQL         ██████████████████░░  classic, reliable
+MongoDB       █████████████████░░░  when schema is a suggestion
+Redis         ████████████████░░░░  caching, queues, pub/sub
+Supabase      ██████████████░░░░░░  postgres with superpowers
+```
+
+```bash
+aathif@dev:~$ cat skills/devops/
+```
+
+```
+Docker        ████████████████████  containerize everything
+Kubernetes    ██████████████░░░░░░  orchestrate at scale
+AWS           ████████████████░░░░  cloud-native deployments
+Linux         ████████████████████  home turf
+GitHub        ████████████████████  where all this lives
+```
 
 ---
 
-## 🛠️ Tech Stack
+```bash
+aathif@dev:~$ cat projects/featured.log
+```
 
-### 🧠 Languages
+```
+[PROJECT]    Pet Adoption Platform 🐾
+[STATUS]     In active development
+[MISSION]    Bridging the gap between shelters and families
+             who are ready to give a pet a forever home.
 
-<p>
-  <img src="https://skillicons.dev/icons?i=js,ts,python,java,go" />
-</p>
+[WHAT IT DOES]
+  → Browse adoptable pets with real-time shelter data
+  → Smart matching between pets and potential adopters
+  → Seamless scheduling for adoption appointments
+  → Built with reliability and empathy at its core
 
----
-
-### 🎨 Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,next,vue,tailwind,html,css" />
-</p>
-
----
-
-### ⚙️ Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django,graphql" />
-</p>
+[TECH USED]  See skills/ above
+[REPO]       github.com/mohomed-aathif
+```
 
 ---
 
-### 🗄️ Databases
+```bash
+aathif@dev:~$ git log --oneline --graph aathif/github-stats
+```
 
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,supabase" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohomed-aathif&show_icons=true&theme=dracula&hide_border=true&title_color=a78bfa&icon_color=c4b5fd&text_color=e2e8f0&bg_color=0d1117" height="155"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohomed-aathif&layout=compact&theme=dracula&hide_border=true&title_color=a78bfa&text_color=e2e8f0&bg_color=0d1117" height="155"/>
+</div>
 
----
+```bash
+aathif@dev:~$ curl streak-stats/mohomed-aathif
+```
 
-### ⚡ DevOps & Tools
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohomed-aathif&theme=tokyonight&hide_border=true&ring=c4b5fd&fire=a78bfa&currStreakLabel=c4b5fd" />
+</div>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,github,aws,linux" />
-</p>
+```bash
+aathif@dev:~$ tail -f activity.graph
+```
 
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=mohomed-aathif&show_icons=true&theme=dracula&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=mohomed-aathif&layout=compact&theme=dracula&hide_border=true" height="150"/>
-</p>
-
-## 🔥 Streak Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohomed-aathif&theme=tokyonight&hide_border=true&ring=c4b5fd&fire=a78bfa" />
-</p>
-
----
-
-## 🔥 Activity Graph
-
-<p align="center">
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohomed-aathif&theme=tokyo-night&color=c4b5fd&line=a78bfa&point=ffffff&hide_border=true" />
-</p>
+</div>
 
 ---
 
-## 🤝 Connect With Me
+```bash
+aathif@dev:~$ cat /etc/connect.conf
+```
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mohomed-aathif-35a962236/">
-    <img src="https://img.shields.io/badge/LinkedIn-C4B5FD?style=for-the-badge&logo=linkedin&logoColor=black"/>
-  </a>
-  <a href="#"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
-</p>
+```
+# ── reach out ────────────────────────────────────────────────
+
+LINKEDIN     → linkedin.com/in/mohomed-aathif     # let's talk
+PORTFOLIO    → [your-portfolio-url]                # see the work
+GITHUB       → github.com/mohomed-aathif           # read the code
+
+# no cold spam. genuine conversations only.
+# -------------------------------------------------------------
+```
 
 ---
+
+```bash
+aathif@dev:~$ cat /etc/motd
+```
+
+```
+"The best code I ever wrote wasn't clever.
+ It was clear."
+
+ — something I remind myself before every PR
+```
+
+---
+
+<div align="center">
+
+```
+aathif@dev:~$ █
+```
+
+<img src="https://komarev.com/ghpvc/?username=mohomed-aathif&label=visitors+since+boot&color=a78bfa&style=flat" />
+
+</div>
