@@ -4,12 +4,12 @@
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
-║   aathif@dev:~$ sudo access --user="visitor" --profile=aathif   ║
+║   aathif@dev:~$ sudo access --user="visitor" --profile=aathif    ║
 ║                                                                  ║
 ║   [ ████████████████████████████████ ] 100%                      ║
 ║                                                                  ║
 ║   Access granted. Welcome to Aathif's terminal.                  ║
-║   Session started: $(date)                                        ║
+║   Session started: Sun Jun 01 2025 — always on                   ║
 ║                                                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
@@ -171,8 +171,8 @@ aathif@dev:~$ cat /etc/connect.conf
 ```
 # ── reach out ────────────────────────────────────────────────
 
-LINKEDIN     → linkedin.com/in/mohomed-aathif     # let's talk
-PORTFOLIO    → [your-portfolio-url]                # see the work
+LINKEDIN     → www.linkedin.com/in/mohomed-aathif-35a962236     # let's talk
+PORTFOLIO    → coming soon                # see the work
 GITHUB       → github.com/mohomed-aathif           # read the code
 
 # no cold spam. genuine conversations only.
