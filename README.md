@@ -169,14 +169,14 @@ aathif@dev:~$ cat /etc/connect.conf
 ```
 
 ```
-# ── reach out ────────────────────────────────────────────────
+# ── reach out ─────────────────────────────────────────────────────────────────
 
 LINKEDIN     → www.linkedin.com/in/mohomed-aathif-35a962236     # let's talk
-PORTFOLIO    → coming soon                # see the work
-GITHUB       → github.com/mohomed-aathif           # read the code
+PORTFOLIO    → coming soon                                      # see the work
+GITHUB       → github.com/mohomed-aathif                        # read the code
 
 # no cold spam. genuine conversations only.
-# -------------------------------------------------------------
+# -------------------------------------------------------------------------------
 ```
 
 ---
